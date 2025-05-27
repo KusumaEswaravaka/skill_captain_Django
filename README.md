@@ -1,1 +1,1 @@
-## A Sample Django Project
+# A Sample Django Project
