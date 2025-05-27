@@ -1,20 +1,4 @@
 # Django
-# 🎬 Movie Review API
-
-This is a Django-based REST API project built to manage and display movie reviews.  
-It serves as a foundation for further development of full movie review functionality, including review submissions, user authentication, and rating aggregation.
-
----
-
-## 🚀 Features
-
-- Django backend with RESTful API structure
-- API endpoint to return a welcome message
-- Easy to extend with new endpoints (movies, users, ratings)
-- Clean project structure and ready for deployment
-
----
-
 ## 📁 Project Structure
 
 
